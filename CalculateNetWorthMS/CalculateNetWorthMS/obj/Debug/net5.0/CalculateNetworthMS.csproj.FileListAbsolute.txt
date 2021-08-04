@@ -1,0 +1,417 @@
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\appsettings.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.exe
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.deps.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.runtimeconfig.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.runtimeconfig.dev.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ref\CalculateNetworthMS.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.csproj.AssemblyReference.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.AssemblyInfoInputs.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.AssemblyInfo.cs
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.csproj.CoreCompileInputs.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\staticwebassets\CalculateNetworthMS.StaticWebAssets.Manifest.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\staticwebassets\CalculateNetworthMS.StaticWebAssets.xml
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\scopedcss\bundle\CalculateNetworthMS.styles.css
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.RazorTargetAssemblyInfo.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.csproj.CopyComplete
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\ref\CalculateNetworthMS.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.genruntimeconfig.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\appsettings.Development.json
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\appsettings.json
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.exe
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.deps.json
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.runtimeconfig.json
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.runtimeconfig.dev.json
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ref\CalculateNetworthMS.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.pdb
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Humanizer.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Newtonsoft.Json.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.Convention.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.Hosting.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.Runtime.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Runtime.Caching.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.csprojAssemblyReference.cache
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.GeneratedMSBuildEditorConfig.editorconfig
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.AssemblyInfoInputs.cache
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.AssemblyInfo.cs
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.csproj.CoreCompileInputs.cache
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.MvcApplicationPartsAssemblyInfo.cs
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.MvcApplicationPartsAssemblyInfo.cache
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\staticwebassets\CalculateNetworthMS.StaticWebAssets.Manifest.cache
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\staticwebassets\CalculateNetworthMS.StaticWebAssets.xml
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\scopedcss\bundle\CalculateNetworthMS.styles.css
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.RazorTargetAssemblyInfo.cache
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.csproj.CopyComplete
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\ref\CalculateNetworthMS.dll
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.pdb
+S:\Downloads\CalculateNetworthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.genruntimeconfig.cache
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\appsettings.Development.json
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\appsettings.json
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.exe
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.deps.json
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.runtimeconfig.json
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.runtimeconfig.dev.json
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\ref\CalculateNetworthMS.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\CalculateNetworthMS.pdb
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Humanizer.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Newtonsoft.Json.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.Convention.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.Hosting.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.Runtime.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Runtime.Caching.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.GeneratedMSBuildEditorConfig.editorconfig
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.AssemblyInfoInputs.cache
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.AssemblyInfo.cs
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.csproj.CoreCompileInputs.cache
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.MvcApplicationPartsAssemblyInfo.cs
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.MvcApplicationPartsAssemblyInfo.cache
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\staticwebassets\CalculateNetworthMS.StaticWebAssets.Manifest.cache
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\staticwebassets\CalculateNetworthMS.StaticWebAssets.xml
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\scopedcss\bundle\CalculateNetworthMS.styles.css
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.RazorTargetAssemblyInfo.cache
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.csproj.CopyComplete
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\ref\CalculateNetworthMS.dll
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.pdb
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.genruntimeconfig.cache
+S:\Downloads\PortfolioManagementSystem\CalculateNetWorthMS\CalculateNetworthMS\obj\Debug\net5.0\CalculateNetworthMS.csprojAssemblyReference.cache

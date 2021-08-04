@@ -1,0 +1,122 @@
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.AssemblyInfoInputs.cache
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.AssemblyInfo.cs
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.csproj.CoreCompileInputs.cache
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\appsettings.json
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\PortfolioGateway.exe
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\PortfolioGateway.deps.json
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\PortfolioGateway.runtimeconfig.json
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\PortfolioGateway.runtimeconfig.dev.json
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\PortfolioGateway.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\ref\PortfolioGateway.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\PortfolioGateway.pdb
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\staticwebassets\PortfolioGateway.StaticWebAssets.Manifest.cache
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\staticwebassets\PortfolioGateway.StaticWebAssets.xml
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\scopedcss\bundle\PortfolioGateway.styles.css
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.RazorTargetAssemblyInfo.cache
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.csproj.CopyComplete
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\ref\PortfolioGateway.dll
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.pdb
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.genruntimeconfig.cache
+C:\Users\SHREY\source\repos\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.csprojAssemblyReference.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\appsettings.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\PortfolioGateway.exe
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\PortfolioGateway.deps.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\PortfolioGateway.runtimeconfig.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\PortfolioGateway.runtimeconfig.dev.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\PortfolioGateway.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\ref\PortfolioGateway.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\PortfolioGateway.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.csproj.AssemblyReference.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.AssemblyInfoInputs.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.AssemblyInfo.cs
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.csproj.CoreCompileInputs.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\staticwebassets\PortfolioGateway.StaticWebAssets.Manifest.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\staticwebassets\PortfolioGateway.StaticWebAssets.xml
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\scopedcss\bundle\PortfolioGateway.styles.css
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.RazorTargetAssemblyInfo.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.csproj.CopyComplete
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\ref\PortfolioGateway.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.genruntimeconfig.cache

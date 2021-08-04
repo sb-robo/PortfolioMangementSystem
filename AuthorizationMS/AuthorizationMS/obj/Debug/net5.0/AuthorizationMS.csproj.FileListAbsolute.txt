@@ -1,0 +1,186 @@
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\appsettings.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.exe
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.deps.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.runtimeconfig.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.runtimeconfig.dev.json
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\ref\AuthorizationMS.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.csproj.AssemblyReference.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.AssemblyInfoInputs.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.AssemblyInfo.cs
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.csproj.CoreCompileInputs.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\staticwebassets\AuthorizationMS.StaticWebAssets.Manifest.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\staticwebassets\AuthorizationMS.StaticWebAssets.xml
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMS.styles.css
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.RazorTargetAssemblyInfo.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.csproj.CopyComplete
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\ref\AuthorizationMS.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.genruntimeconfig.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\log4net.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\appsettings.Development.json
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\appsettings.json
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.exe
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.deps.json
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.runtimeconfig.json
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.runtimeconfig.dev.json
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\ref\AuthorizationMS.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.pdb
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Humanizer.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\log4net.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.Runtime.Caching.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.csprojAssemblyReference.cache
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.GeneratedMSBuildEditorConfig.editorconfig
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.AssemblyInfoInputs.cache
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.AssemblyInfo.cs
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.csproj.CoreCompileInputs.cache
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.MvcApplicationPartsAssemblyInfo.cs
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.MvcApplicationPartsAssemblyInfo.cache
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\staticwebassets\AuthorizationMS.StaticWebAssets.Manifest.cache
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\staticwebassets\AuthorizationMS.StaticWebAssets.xml
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMS.styles.css
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.RazorTargetAssemblyInfo.cache
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.csproj.CopyComplete
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\ref\AuthorizationMS.dll
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.pdb
+S:\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.genruntimeconfig.cache
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\appsettings.json
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.exe
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.deps.json
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.runtimeconfig.json
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.runtimeconfig.dev.json
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\ref\AuthorizationMS.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\AuthorizationMS.pdb
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\log4net.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.csproj.AssemblyReference.cache
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.AssemblyInfoInputs.cache
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.AssemblyInfo.cs
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.csproj.CoreCompileInputs.cache
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\staticwebassets\AuthorizationMS.StaticWebAssets.Manifest.cache
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\staticwebassets\AuthorizationMS.StaticWebAssets.xml
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMS.styles.css
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.RazorTargetAssemblyInfo.cache
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.csproj.CopyComplete
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\ref\AuthorizationMS.dll
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.pdb
+C:\Users\Suraj BIswas\Downloads\AuthorizationMS\AuthorizationMS\obj\Debug\net5.0\AuthorizationMS.genruntimeconfig.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\AuthorizationMS\AuthorizationMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
