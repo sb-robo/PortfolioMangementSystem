@@ -25,24 +25,24 @@ namespace CalculateNetworthMS.Controllers
         }
         [HttpPost]
         [Route(ConstRouting.getNetWorth)]
-        public ActionResult<string> GetNetWorth([FromBody]PortfolioDetails portFolio)
+        public ActionResult<AssetSaleResponse> GetNetWorth([FromBody]PortfolioDetails portFolio)
         {
             if (portFolio == null)
             {
                 Response.StatusCode = StatusCodes.Status400BadRequest;
-                return "Portfolio Cannot be Null";
+                return new AssetSaleResponse { SaleStatus = false, Message = "Portfolio Cannot be Null", NetWorth = 0 };
             }
 
             try
             {
                 int netWorth = _netWorthService.CalculateNetWorth(portFolio);
                 Response.StatusCode = StatusCodes.Status200OK;
-                return Convert.ToString(netWorth);
+                return new AssetSaleResponse { SaleStatus = true, Message = "NetWorth Calculated", NetWorth = netWorth };
             }
             catch(Exception ex)
             {
                 Response.StatusCode = StatusCodes.Status500InternalServerError;
-                return "Internal Error";
+                return new AssetSaleResponse { SaleStatus = false, Message = "Internal Error", NetWorth = 0 };
             }
         }
 

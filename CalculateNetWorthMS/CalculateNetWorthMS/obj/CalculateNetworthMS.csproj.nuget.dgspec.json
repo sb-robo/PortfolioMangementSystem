@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\CalculateNetWorthMS\\CalculateNetworthMS\\CalculateNetworthMS.csproj": {}
+    "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\CalculateNetWorthMS\\CalculateNetworthMS\\CalculateNetworthMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\CalculateNetWorthMS\\CalculateNetworthMS\\CalculateNetworthMS.csproj": {
+    "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\CalculateNetWorthMS\\CalculateNetworthMS\\CalculateNetworthMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\CalculateNetWorthMS\\CalculateNetworthMS\\CalculateNetworthMS.csproj",
+        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\CalculateNetWorthMS\\CalculateNetworthMS\\CalculateNetworthMS.csproj",
         "projectName": "CalculateNetworthMS",
-        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\CalculateNetWorthMS\\CalculateNetworthMS\\CalculateNetworthMS.csproj",
+        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\CalculateNetWorthMS\\CalculateNetworthMS\\CalculateNetworthMS.csproj",
         "packagesPath": "C:\\Users\\Suraj BIswas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\CalculateNetWorthMS\\CalculateNetworthMS\\obj\\",
+        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\CalculateNetWorthMS\\CalculateNetworthMS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

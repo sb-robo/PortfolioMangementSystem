@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xQK6ehkwg38f2UQp9lduxsgyUT47/jX5jkn4+ZX+3hWrd743QCxQ9ZT+dC6NITGYqXjkzNslQrRssNPoRlU9Uw==",
+  "dgSpecHash": "4e7D33PNc4OAel75H1kQSrDvf0RVvL3XfR4H+8bzfuctluTJHh+PUrDDwe8AfU7MJ4eKOjggNN3yMq5nFmMAAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\CalculateNetWorthMS\\CalculateNetworthMS\\CalculateNetworthMS.csproj",
+  "projectFilePath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\CalculateNetWorthMS\\CalculateNetworthMS\\CalculateNetworthMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Suraj BIswas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Suraj BIswas\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.8\\microsoft.aspnetcore.authentication.jwtbearer.5.0.8.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailySharePriceMS\\DailySharePriceTests\\DailySharePriceTests.csproj": {}
+    "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailySharePriceMS\\DailySharePriceTests\\DailySharePriceTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailySharePriceMS\\DailySharePriceMS\\DailySharePriceMS.csproj": {
+    "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailySharePriceMS\\DailySharePriceMS\\DailySharePriceMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailySharePriceMS\\DailySharePriceMS\\DailySharePriceMS.csproj",
+        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailySharePriceMS\\DailySharePriceMS\\DailySharePriceMS.csproj",
         "projectName": "DailySharePriceMS",
-        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailySharePriceMS\\DailySharePriceMS\\DailySharePriceMS.csproj",
+        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailySharePriceMS\\DailySharePriceMS\\DailySharePriceMS.csproj",
         "packagesPath": "C:\\Users\\Suraj BIswas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailySharePriceMS\\DailySharePriceMS\\obj\\",
+        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailySharePriceMS\\DailySharePriceMS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.8, )"
@@ -93,14 +97,14 @@
         }
       }
     },
-    "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailySharePriceMS\\DailySharePriceTests\\DailySharePriceTests.csproj": {
+    "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailySharePriceMS\\DailySharePriceTests\\DailySharePriceTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailySharePriceMS\\DailySharePriceTests\\DailySharePriceTests.csproj",
+        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailySharePriceMS\\DailySharePriceTests\\DailySharePriceTests.csproj",
         "projectName": "DailySharePriceTests",
-        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailySharePriceMS\\DailySharePriceTests\\DailySharePriceTests.csproj",
+        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailySharePriceMS\\DailySharePriceTests\\DailySharePriceTests.csproj",
         "packagesPath": "C:\\Users\\Suraj BIswas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailySharePriceMS\\DailySharePriceTests\\obj\\",
+        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailySharePriceMS\\DailySharePriceTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,8 +125,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailySharePriceMS\\DailySharePriceMS\\DailySharePriceMS.csproj": {
-                "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailySharePriceMS\\DailySharePriceMS\\DailySharePriceMS.csproj"
+              "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailySharePriceMS\\DailySharePriceMS\\DailySharePriceMS.csproj": {
+                "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailySharePriceMS\\DailySharePriceMS\\DailySharePriceMS.csproj"
               }
             }
           }

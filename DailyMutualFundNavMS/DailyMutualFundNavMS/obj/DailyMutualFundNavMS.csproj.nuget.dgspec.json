@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj": {}
+    "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj": {
+    "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj",
+        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj",
         "projectName": "DailyMutualFundNavMS",
-        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj",
+        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj",
         "packagesPath": "C:\\Users\\Suraj BIswas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\obj\\",
+        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.8, )"

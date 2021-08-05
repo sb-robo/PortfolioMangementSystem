@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\PortfolioGateway\\PortfolioGateway\\PortfolioGateway.csproj": {}
+    "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\PortfolioGateway\\PortfolioGateway\\PortfolioGateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\PortfolioGateway\\PortfolioGateway\\PortfolioGateway.csproj": {
+    "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\PortfolioGateway\\PortfolioGateway\\PortfolioGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\PortfolioGateway\\PortfolioGateway\\PortfolioGateway.csproj",
+        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\PortfolioGateway\\PortfolioGateway\\PortfolioGateway.csproj",
         "projectName": "PortfolioGateway",
-        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\PortfolioGateway\\PortfolioGateway\\PortfolioGateway.csproj",
+        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\PortfolioGateway\\PortfolioGateway\\PortfolioGateway.csproj",
         "packagesPath": "C:\\Users\\Suraj BIswas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\PortfolioGateway\\PortfolioGateway\\obj\\",
+        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\PortfolioGateway\\PortfolioGateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,6 +61,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
             }
           },
           "imports": [

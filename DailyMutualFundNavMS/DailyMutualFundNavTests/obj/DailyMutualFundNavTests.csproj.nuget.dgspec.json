@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavTests\\DailyMutualFundNavTests.csproj": {}
+    "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavTests\\DailyMutualFundNavTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj": {
+    "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj",
+        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj",
         "projectName": "DailyMutualFundNavMS",
-        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj",
+        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj",
         "packagesPath": "C:\\Users\\Suraj BIswas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\obj\\",
+        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.8, )"
@@ -97,14 +101,14 @@
         }
       }
     },
-    "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavTests\\DailyMutualFundNavTests.csproj": {
+    "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavTests\\DailyMutualFundNavTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavTests\\DailyMutualFundNavTests.csproj",
+        "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavTests\\DailyMutualFundNavTests.csproj",
         "projectName": "DailyMutualFundNavTests",
-        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavTests\\DailyMutualFundNavTests.csproj",
+        "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavTests\\DailyMutualFundNavTests.csproj",
         "packagesPath": "C:\\Users\\Suraj BIswas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavTests\\obj\\",
+        "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -125,8 +129,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj": {
-                "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj"
+              "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj": {
+                "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\DailyMutualFundNavMS\\DailyMutualFundNavMS\\DailyMutualFundNavMS.csproj"
               }
             }
           }

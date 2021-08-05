@@ -8,6 +8,7 @@ using DailySharePriceMS.Repository;
 using DailySharePriceMS.Loggers;
 using DailySharePriceMS.Interface;
 using DailySharePriceMS.Routing;
+using Microsoft.AspNetCore.Authorization;
 
 namespace DailySharePriceMS.Controllers
 {

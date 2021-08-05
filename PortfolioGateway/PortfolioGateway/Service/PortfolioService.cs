@@ -8,6 +8,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using PortfolioGateway.Context;
+using Microsoft.Extensions.Configuration;
 
 namespace PortfolioGateway.Service
 {
@@ -15,11 +16,12 @@ namespace PortfolioGateway.Service
     {
         private readonly IPortfolioRepository _portfolioRepository;
         private ApplicationDbContext context;
-        public PortfolioService(IPortfolioRepository portfolioRepository, ApplicationDbContext _context)
+        private IConfiguration configuration;
+        public PortfolioService(IPortfolioRepository portfolioRepository, ApplicationDbContext _context, IConfiguration _iconfig)
         {
             _portfolioRepository = portfolioRepository;
             context = _context;
-            
+            configuration = _iconfig;
         }
 
         public PortfolioDetails GetCustomerPortfolio(int portfolioId)
@@ -31,15 +33,15 @@ namespace PortfolioGateway.Service
         
         public int CalculateNetWorth(PortfolioDetails portfolioDetails)
         {
-            string uri = "http://localhost:63015/api/CalculateNetWorth/netWorth";
+            string uri = configuration.GetValue<string>("MyUrls:URLNetWorth");
             var jsonData = JsonConvert.SerializeObject(portfolioDetails);
             var encodedData = new StringContent(jsonData, Encoding.UTF8, "application/json");
             using var client = new HttpClient();
             var response = client.PostAsync(uri, encodedData).Result;
             if (response != null)
             {
-                int netWorth = Convert.ToInt32(response.Content.ReadAsStringAsync().Result);
-                return netWorth;
+                AssetSaleResponse assetSaleResponse = JsonConvert.DeserializeObject<AssetSaleResponse>(response.Content.ReadAsStringAsync().Result);
+                return assetSaleResponse.Networth;
             }
             return 0;
         }
@@ -52,7 +54,7 @@ namespace PortfolioGateway.Service
             portfolioDetails.AssetQuantityToBeSold = assetQuantity;
             var jsonData = JsonConvert.SerializeObject(portfolioDetails);
             var encodedData = new StringContent(jsonData, Encoding.UTF8, "application/json");
-            string uri = "http://localhost:63015/api/CalculateNetWorth/sellAsset";
+            string uri = configuration.GetValue<string>("MyUrls:URLSellAsset");
             using var client = new HttpClient();
             var response = client.PostAsync(uri, encodedData).Result;
             if (response != null)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3AN2Aj7HnPg+bR8QkvvFVNauxuOcIxzqUe0/A6/h4ZfbfFJ+ZU/ia5HhCUEXlAOM5qwwGgG7bM5UMchbmNb5Bw==",
+  "dgSpecHash": "E0VVqmEwx1RIyCQsyMx/MCdXLj7H5zpySXrPhyJkTYl3r6LGF1tWE7YHZ2ygm13EioEFGHtlH95+YWHfwpgftg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\AuthorizationMS\\AuthorizationMS\\AuthorizationMS.csproj",
+  "projectFilePath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\AuthorizationMS\\AuthorizationMS\\AuthorizationMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Suraj BIswas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Suraj BIswas\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",

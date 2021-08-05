@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using PortfolioGateway.Context;
+using PortfolioGateway.Loggers;
 using PortfolioGateway.Repository;
 using PortfolioGateway.Service;
 using System;
@@ -49,17 +50,14 @@ namespace PortfolioGateway
             });
             services.AddScoped<IPortfolioRepository, PortfolioRepository>();
             services.AddScoped<IPortfolioService, PortfolioService>();
-            //services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddSingleton<ILoggerManager, LoggerManager>();
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                //app.UseSwagger();
-                //app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "PortfolioGateway v1"));
             }
             app.UseSwagger();
             app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "AuthorizationPortfolioManagement v1"));

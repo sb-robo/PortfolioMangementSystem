@@ -61,6 +61,7 @@ namespace AuthorizationMS
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
                 };
             });
+
             services.AddCors(options =>
             {
                 options.AddPolicy("EnableCORS", builder =>

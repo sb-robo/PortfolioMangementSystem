@@ -3,10 +3,11 @@ using AuthorizationMS.Interface;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using System;
+using AuthorizationMS.Routing;
 
 namespace AuthorizationMS.Controllers
 {
-    [Route("api/[controller]")]
+    [Route(ConstRouting.baseRoute)]
     [ApiController]
     public class AuthController : ControllerBase
     {
@@ -21,7 +22,7 @@ namespace AuthorizationMS.Controllers
         }
 
         [HttpPost]
-        [Route("login")]
+        [Route(ConstRouting.loginRoute)]
         public IActionResult Login([FromBody] LoginModel user)
         {
             try

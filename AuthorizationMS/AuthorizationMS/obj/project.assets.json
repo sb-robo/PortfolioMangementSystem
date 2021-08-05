@@ -5687,11 +5687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\AuthorizationMS\\AuthorizationMS\\AuthorizationMS.csproj",
+      "projectUniqueName": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\AuthorizationMS\\AuthorizationMS\\AuthorizationMS.csproj",
       "projectName": "AuthorizationMS",
-      "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\AuthorizationMS\\AuthorizationMS\\AuthorizationMS.csproj",
+      "projectPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\AuthorizationMS\\AuthorizationMS\\AuthorizationMS.csproj",
       "packagesPath": "C:\\Users\\Suraj BIswas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\PortfolioManagementSystem\\AuthorizationMS\\AuthorizationMS\\obj\\",
+      "outputPath": "C:\\Users\\Suraj BIswas\\Downloads\\Practice Check\\AuthorizationMS\\AuthorizationMS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -127,7 +127,6 @@ C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\DailyMutualFundNavMS\D
 C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\DailyMutualFundNavMS\DailyMutualFundNavMS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\DailyMutualFundNavMS\DailyMutualFundNavMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\DailyMutualFundNavMS\DailyMutualFundNavMS\bin\Debug\net5.0\Moq.dll
-C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\DailyMutualFundNavMS\DailyMutualFundNavMS\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\DailyMutualFundNavMS\DailyMutualFundNavMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\DailyMutualFundNavMS\DailyMutualFundNavMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\DailyMutualFundNavMS\DailyMutualFundNavMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -164,3 +163,4 @@ C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\DailyMutualFundNavMS\D
 C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\DailyMutualFundNavMS\DailyMutualFundNavMS\obj\Debug\net5.0\DailyMutualFundNavMS.pdb
 C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\DailyMutualFundNavMS\DailyMutualFundNavMS\obj\Debug\net5.0\DailyMutualFundNavMS.genruntimeconfig.cache
 C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\DailyMutualFundNavMS\DailyMutualFundNavMS\obj\Debug\net5.0\DailyMutualFundNavMS.csproj.AssemblyReference.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\DailyMutualFundNavMS\DailyMutualFundNavMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

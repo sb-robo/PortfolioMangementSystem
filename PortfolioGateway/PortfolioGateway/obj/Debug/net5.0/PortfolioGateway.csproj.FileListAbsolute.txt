@@ -120,3 +120,5 @@ C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\Portf
 C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\ref\PortfolioGateway.dll
 C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.pdb
 C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\obj\Debug\net5.0\PortfolioGateway.genruntimeconfig.cache
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\log4net.config
+C:\Users\Suraj BIswas\Downloads\PortfolioManagementSystem\PortfolioGateway\PortfolioGateway\bin\Debug\net5.0\log4net.dll
